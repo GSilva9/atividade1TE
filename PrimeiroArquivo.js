@@ -1,0 +1,1 @@
+// Vamos escrever um código de Hello Word em JavaScript
